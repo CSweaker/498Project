@@ -49,6 +49,4 @@ streamlit run app.py
 
 Use four evaluation columns: clean baseline, attacked baseline, purified defense, and adaptive/defense-aware attack if time allows. For intrusion detection, report accuracy, balanced accuracy, precision, recall, F1, ROC-AUC, PR-AUC, and attack success rate rather than accuracy alone.
 
-## GitHub reminder
 
-Make the repository public and add `masoud-y` as a collaborator from GitHub repository settings.
