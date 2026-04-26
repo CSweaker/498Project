@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/*.csv
+data/X_train.npy
+data/X_val.npy
+data/y_train.npy
+data/y_val.npy
+data/X_fgsm_*.npy
+data/X_pgd_*.npy
+results/
